@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+description: Jario on Github
+logo: https://jar.io/media/images/logo.png
+show_downloads: true
+google_analytics: 
