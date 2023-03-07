@@ -1,15 +1,15 @@
 ---
+layout: post
 Title: Meio Ambiente automóveis a hidrogênio O uso da água HHO como fonte de combustível Livro Jario Araujo
 date: 2019-07-13 17:30:00
 category: books 
-tags: meio ambiente, hidrogenio, hho, hidrogenio combustivel, amazon
+tags: amazon books
 Image: https://jar.io/media/images/livro-automoveis-a-hidrogenio-jario-swami.jpg
 ---
 **Meio Ambiente: automóveis a hidrogênio. O uso da água HHO como fonte de combustível Livro Jario Araujo**. Esta obra trata do uso do Hidrogênio como combustível para os automóveis e demais veículos, obtido através da água pura e simples. <!--more-->
 
 As tecnologias que empregam o **Hidrogênio** como fonte geradora de energia são altamente eficientes, de simples manuseio e baratas. Têm sido empregadas nos países desenvolvidos como alternativas de energia limpa, ademais é um caminho para reduzir a desigualdades sociais e melhorar o Índice de Desenvolvimento Humano (IDH) desonerando os custos e gastos com fornecimento de energia cara, poluidora e destruidora do meio ambiente, tais como as hidrelétricas e usinas eólicas. As descobertas das novas **propriedades da água** como fonte de combustível é a mais segura, eficiente e barata entre todas as existentes já conhecidas, pode ser, se houver envolvimento e engajamento político, um mecanismo de redução na redução das emissões poluentes da atmosfera.
 
-[toc]
 
 ## Meio Ambiente: automóveis a hidrogênio O uso da água HHO como fonte de combustível
 

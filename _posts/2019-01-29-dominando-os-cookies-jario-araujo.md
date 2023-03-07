@@ -1,13 +1,12 @@
 ---
+layout: post
 Title: Dominando os Cookies Livro Jario Araujo
 date: 2019-03-29 07:24:00
 category: books 
-tags: Livro, cookies, segurança dados
+tags: books
 Image: https://jar.io/media/images/livro-dominando-os-cookies-jario-araujo.jpg
 ---
-**Dominando os Cookies, Livro, Jario Araujo**. Dominando os cookies aborda diretamente os assuntos principais referentes aos cookies de forma concisa e prática, evitando a perda do objetivo com enfadonhas informações técnicas. <!--more-->
-
-[toc]
+**Dominando os Cookies, Livro, Jario Araujo**. Dominando os cookies aborda diretamente os assuntos principais referentes aos cookies de forma concisa e prática, evitando a perda do objetivo com enfadonhas informações técnicas. 
 
 ## Dominando os Cookies
 

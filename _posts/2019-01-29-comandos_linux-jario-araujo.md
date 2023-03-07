@@ -1,13 +1,12 @@
 ---
+layout: post
 Title: Comandos do Linux Uso Eficiente e Avançado Livro Jario Araujo
 date: 2019-03-29 07:28:00
 category: books 
-tags: Livro, linux, comandos linux
+tags: Livro linux linux
 Image: https://jar.io/media/images/livro-comandos_linux-jario-araujo.jpg
 ---
-**Comandos do Linux Uso Eficiente e Avançado Livro Jario Araujo**. Este livro destina-se àqueles que optaram pelo Linux, que são usuários leigos, iniciantes e nível médio e aqueles que já possuem sólidos conhecimentos em Linux e Unix. <!--more-->
-
-[toc]
+**Comandos do Linux Uso Eficiente e Avançado Livro Jario Araujo**. Este livro destina-se àqueles que optaram pelo Linux, que são usuários leigos, iniciantes e nível médio e aqueles que já possuem sólidos conhecimentos em Linux e Unix. 
 
 ## Comandos do Linux Uso Eficiente e Avançado
 

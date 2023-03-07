@@ -1,14 +1,13 @@
 ---
+layout: post
 Title: Desenvolvendo para Wap com Wml Livro Jario Araujo
 date: 2019-03-29 07:30:00
 category: books
-tags: Livro,Linguagem wml, wap, wml
+tags: books linguagem wml
 Image: https://jar.io/media/images/livro-desenvolvendo-para-wap-com-wml-jario-araujo.jpg
 ---
-**Desenvolvendo para Wap com Wml, Jario Araujo**. Tendo por objetivo orientar o leitor a respeito da linguagem WML, especialmente na construção de decks (sites WAP), Desenvolvendo para WAP com WML é recomendado àqueles que desejam conhecer e desenvolver documentos para WAP, desde os leigos na Ciência da Computação até os usuários iniciantes em WAP/WML. <!--more-->
+**Desenvolvendo para Wap com Wml, Jario Araujo**. Tendo por objetivo orientar o leitor a respeito da linguagem WML, especialmente na construção de decks (sites WAP), Desenvolvendo para WAP com WML é recomendado àqueles que desejam conhecer e desenvolver documentos para WAP, desde os leigos na Ciência da Computação até os usuários iniciantes em WAP/WML. 
 
-
-[toc]
 
 ## Desenvolvendo para Wap com Wml
 

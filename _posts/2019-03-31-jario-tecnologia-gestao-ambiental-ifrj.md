@@ -1,8 +1,9 @@
 ---
+layout: post
 Title: Gestão Ambiental Tecnologia Jario
 date: 2019-03-31 20:08:00   
-category: jario  
-tags: gestao ambiental,tecnologia, tecnologo, bacharelado,licenciatura
+category: curso  
+tags: tecnologia
 Image: https://jar.io/media/images/academico/fisica-unb-jario-00.jpg 
 ---
 CST em Gestão Ambiental [IFRJ](http://www.ifrj.edu.br), cerimônia Simplificada de colação de grau antecipada junto à pro-reitora e seus assessores. O curso de tecnologia oferecido no *campus* Maracanã no período de 2015-2017.

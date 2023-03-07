@@ -1,13 +1,12 @@
 ---
+layout: post
 Title: Introdução ao Linux Como Instalar e Configurar o Linux no PC Livro Jario Araujo
 date: 2019-03-29 07:26:00
 category: books 
-tags: Livro, Linux, Debian, Ubuntu
+tags: books Linux debian
 Image: https://jar.io/media/images/livro-introducao-ao-linux-como-instalar-jario-araujo.jpg
 ---
-**Introdução ao Linux Como Instalar e Configurar o Linux no PC, Livro, Jario Araujo**. O livro mostra quais são as características particulares das distribuições Red Hat, Slackware e Debian, além de como instalar e configurar os programas. <!--more-->
-
-[toc]
+**Introdução ao Linux Como Instalar e Configurar o Linux no PC, Livro, Jario Araujo**. O livro mostra quais são as características particulares das distribuições Red Hat, Slackware e Debian, além de como instalar e configurar os programas. 
 
 ## Introdução ao Linux Como Instalar e Configurar o Linux no PC
 

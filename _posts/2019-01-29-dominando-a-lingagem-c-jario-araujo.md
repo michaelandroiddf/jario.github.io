@@ -1,14 +1,12 @@
 ---
+layout: post
 Title: Dominando a Linguagem C Livro Jario Araujo
 date: 2019-03-29 07:31:00
 category: books 
-tags: Livro,Linguagem C
+tags:  linguagem C
 Image: https://jar.io/media/images/livro-dominando-a-linguagem-c-jario-araujo.jpg
 ---
-**Dominando a Linguagem C, Livro, Jario Araujo**. Este livro é dedicado ao aprendiz da linguagem C, pois explica passo a passo pontos fundamentais da construção de programas elaborados, porém, leva gradativamente o leitor a desenvolver sua capacidade intuitiva na auto-sustentabilidade da aprendizagem e prática da programação.<!--more-->
-
-
-[toc]
+**Dominando a Linguagem C, Livro, Jario Araujo**. Este livro é dedicado ao aprendiz da linguagem C, pois explica passo a passo pontos fundamentais da construção de programas elaborados, porém, leva gradativamente o leitor a desenvolver sua capacidade intuitiva na auto-sustentabilidade da aprendizagem e prática da programação.
 
 ## Dominando a Linguagem C
  
