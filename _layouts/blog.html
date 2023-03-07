@@ -1,0 +1,38 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<main>
+
+    {% include header.html %}
+
+    {{ content }}
+
+    <ul class="blog-posts">
+        {% for post in site.posts %}
+       
+        <li>
+            <span>
+                <em><small>
+                    <time datetime="2022-01-28" pubdate="">
+                        {{ post.date | date: "%b %-d, %Y" }}  
+                    </time>
+               </small> </em>
+            </span>
+             <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a>
+        </li>
+     
+        {% endfor %}
+
+    </ul>
+
+   
+</main>
+
+{% include footer.html %}
+
+</body>
+
+</html>

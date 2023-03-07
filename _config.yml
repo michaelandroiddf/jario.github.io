@@ -1,0 +1,89 @@
+###########
+# site.title
+# host: 0.0.0.0
+#theme: jekyll-bear-theme
+title: Logs Jario Blog
+name: Jario Logs
+description: > # this means to ignore newlines until "baseurl:"
+  Blog com artigos antigos e novos variados.
+permalink: ':title/'
+#baseurl: "/linux.gitub.io" # the subpath of your site, e.g. /blog
+url: "https://log.jar.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: jarioswami #if your site has a twitter account, enter it here
+
+# Author Settings
+author: JarioSwami # add your name
+author-img: avatar.png # add your photo
+about-author:  Jario estudo física, gestão ambiental e pedagogia na universidade. É mestre de yoga e defensor de um estilo de vida minimalista.
+
+
+#########################
+# more settings
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap  
+  - jekyll-feed
+  - jekyll-redirect-from
+    
+whitelist:
+  - jekyll-redirect-from
+
+markdown: kramdown
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
+
+# sass:
+#   sass_dir: css
+#   style:    compressed
+
+collections: 
+  tags:
+    output: true
+    permalink: /:slug
+  search:
+    output: true
+    permalink: /:slug
+
+defaults:
+ -
+  scope:
+      path: ""
+      type: "tags"
+  values:
+      layout: "tag"
+  scope:
+      path: ""
+      type: search
+  values:
+      layout: search
+
+
+permalink: /blog/:slug
+timezone: America/Sao_Paulo
+future: false
+
+exclude:
+- README.md
+- LICENSE.md
+
+exclude: [vendor]
+
+Blog: /blog
+#Search: /search
+
+# Add general links to site pages here
+#links:
+#  Resume: /assets/resume.pdf
+  
+
+# Add links for more focus here
+special_links:
+  "JarioBlog": https://jar.io

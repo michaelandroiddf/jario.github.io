@@ -1,0 +1,4 @@
+---
+slug: debian
+name: Debian
+---
