@@ -65,17 +65,20 @@ a {
 .left {text-align: left;}
 .center {text-align: center;}
 
-img.logo { display: inline-block;padding: 0 15px;}
+img.logo { display: inline-block; padding: 0 15px;}
 
-.social{
-     
-      width: 36px;
-      height: 26px;
+small {font-size: 0.75em;}
+.mini-note {font-size: 0.80em;}
+
+.social{     
+     font-size: 18px;
+      width: 26px;
+      height: 22px;
       line-height: 0;
-      padding: 10px 0;
+      padding: 10px;
       margin: 5px;
       text-align: center;}
-      
+     
 .social {
     ul {
         list-style: none !important;
@@ -408,7 +411,12 @@ small a {
     padding-right: 0.61803rem;
 }
 
+footer { 
+  bottom: 0;
+  width: 90%;
+ }
 .bottom-footer {
     padding: 20px;
-    text-align: center;
+    text-align: center;    
 }
+
