@@ -6,8 +6,7 @@ body {
     max-width: 85%;
     text-align: justify;
     background-color: #fff;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
+   
     line-height: 1.5;
     color: #444;
 }
@@ -68,15 +67,15 @@ a {
 img.logo { display: inline-block; padding: 0 15px;}
 
 small {font-size: 0.75em;}
-.mini-note {font-size: 0.80em;}
+.mini-note {font-size: 0.75em;}
 
 .social{     
      font-size: 18px;
       width: 26px;
       height: 22px;
       line-height: 0;
-      padding: 10px;
-      margin: 5px;
+      padding: 0 20px;
+      margin: 10px;
       text-align: center;}
      
 .social {
