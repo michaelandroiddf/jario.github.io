@@ -1,4 +1,0 @@
----
-slug: config
-name: Configuração
----
