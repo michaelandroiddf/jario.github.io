@@ -1,4 +1,4 @@
-# Git Jario
+# Logs Jario blog
 Pequenos textos sobre internet, informática e assuntos de computadores. Procedimentos, rotinas, dicas e informações resumidas sobre diversos assuntos da web.
 
 ## Resumos
