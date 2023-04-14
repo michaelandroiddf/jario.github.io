@@ -5,11 +5,11 @@ theme: minima
 title: Jario 
 name: Jario 
 description: > # this means to ignore newlines until "baseurl:"
- .
+ Assuntos referentes ao curso desenvolvendo aplicativos android 1.
 permalink: ':title/'
 #baseurl: "/linux.gitub.io" # the subpath of your site, e.g. /blog
 #url: "https://logs.jar.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: jarioswami #if your site has a twitter account, enter it here
+#site-twitter: jarioswami #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Jario Swami # add your name
@@ -19,15 +19,6 @@ author: Jario Swami # add your name
 
 #########################
 # more settings
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap  
-  - jekyll-feed
-  - jekyll-redirect-from
-    
-whitelist:
-  - jekyll-redirect-from
 
 markdown: kramdown
 
