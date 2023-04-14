@@ -1,4 +1,0 @@
----
-slug: curas
-name: Curas
----
