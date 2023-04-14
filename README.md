@@ -1,6 +1,7 @@
 # Qualifica DF Paxis
 
-curso desenvolvimento aplicativos android 1 Praxis Qaulifica DF
+Curso desenvolvimento aplicativos android 1 Praxis Qaulifica DF
 
 
-Link Whatsapp Android https://wa.me/5561993367212
+Link Whatsapp Android  [ENTRAR ](https://chat.whatsapp.com/JYr1PDcwQ1T9prsEXaAXsW)
+
