@@ -6,15 +6,6 @@ title: Jario
 name: Jario 
 description: > # this means to ignore newlines until "baseurl:"
  Assuntos referentes ao curso desenvolvendo aplicativos android 1.
-permalink: ':title/'
-#baseurl: "/linux.gitub.io" # the subpath of your site, e.g. /blog
-#url: "https://logs.jar.io" # the base hostname & protocol for your site, e.g. http://example.com
-#site-twitter: jarioswami #if your site has a twitter account, enter it here
-
-#########################
-# more settings
-
-markdown: kramdown
 
 minima:
   # Minima date format.
@@ -25,7 +16,7 @@ minima:
   # Generate social links in footer.
   #
     social_links:
-       - { platform: devto,          user_url: "https://dev.to/jario" }
+      - { platform: devto,          user_url: "https://dev.to/jario" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
