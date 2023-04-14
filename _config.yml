@@ -11,12 +11,6 @@ permalink: ':title/'
 #url: "https://logs.jar.io" # the base hostname & protocol for your site, e.g. http://example.com
 #site-twitter: jarioswami #if your site has a twitter account, enter it here
 
-# Author Settings
-author: Jario Swami # add your name
-#author-img: avatar.png # add your photo
-#about-author:  Jario estudo física, gestão ambiental e pedagogia na universidade. É mestre de yoga e defensor de um estilo de vida minimalista.
-#google_analytics: G-0PV74153TH 
-
 #########################
 # more settings
 
@@ -56,15 +50,3 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
-
-
-permalink: /:slug
-timezone: America/Sao_Paulo
-future: false
-
-exclude:
-- README.md
-- LICENSE.md
-
-exclude: [vendor]
-
