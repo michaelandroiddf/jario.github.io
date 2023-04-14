@@ -1,5 +1,3 @@
-# Qualifica DF Paxis
-
 Curso desenvolvimento aplicativos android 1 Praxis Qaulifica DF
 
 #### Links 
