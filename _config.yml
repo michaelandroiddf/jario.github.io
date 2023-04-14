@@ -1,11 +1,13 @@
-###########
-# site.title
-# host: 0.0.0.0
-theme: minima
 title: Jario 
 name: Jario 
 description: > # this means to ignore newlines until "baseurl:"
  Assuntos referentes ao curso desenvolvendo aplicativos android 1.
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   # Minima date format.
