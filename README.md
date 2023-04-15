@@ -5,6 +5,8 @@ Guia Android Oficial [https://developer.android.com/guide?hl=pt-br](https://deve
 
 Android Studio **DOWNLOAD Versões Antigas**: [https://developer.android.com/studio/archive?hl=pt-br](https://developer.android.com/studio/archive?hl=pt-br)
 
+SUGESTÃO: **Android Studio 3.6** *24 de fevereiro de 2020*
+
 [CONTATO](https://github.com/jario/jario.github.io/issues)
 
 #### Datas Importantes
