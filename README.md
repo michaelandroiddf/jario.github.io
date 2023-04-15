@@ -1,4 +1,4 @@
-Curso desenvolvimento aplicativos android 1 Praxis Qualifica DF
+Curso desenvolvimento aplicativos android 2 Praxis Qualifica DF
 
 #### Links 
 Guia Android Oficial [https://developer.android.com/guide?hl=pt-br](https://developer.android.com/guide?hl=pt-br)
