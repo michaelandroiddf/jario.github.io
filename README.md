@@ -3,6 +3,8 @@ Curso desenvolvimento aplicativos android 2 Praxis Qualifica DF
 #### Links 
 Guia Android Oficial [https://developer.android.com/guide?hl=pt-br](https://developer.android.com/guide?hl=pt-br)
 
+Android Studio **DOWNLOAD Versões Antigas**: [https://developer.android.com/studio/archive?hl=pt-br](https://developer.android.com/studio/archive?hl=pt-br)
+
 [CONTATO](https://github.com/jario/jario.github.io/issues)
 
 #### Datas Importantes
