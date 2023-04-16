@@ -3,6 +3,8 @@ Curso desenvolvimento aplicativos android 2 Praxis Qualifica DF
 #### Links 
 Guia Android Oficial [https://developer.android.com/guide?hl=pt-br](https://developer.android.com/guide?hl=pt-br)
 
+AMBIENTE DE CRIAÇÃO: [APPInventor MIT](https://appinventor.mit.edu/)
+
 Android Studio **DOWNLOAD Versões Antigas**: [https://developer.android.com/studio/archive?hl=pt-br](https://developer.android.com/studio/archive?hl=pt-br)
 
 SUGESTÃO: **Android Studio 3.6** *24 de fevereiro de 2020*
