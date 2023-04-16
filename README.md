@@ -25,7 +25,7 @@ Link Whatsapp Android  [ENTRAR ](https://chat.whatsapp.com/JYr1PDcwQ1T9prsEXaAXs
 ##### Informações: 
 Professor
 * Blog [jario.com.br](https://jario.com.br)
-. Github Repositório: https://jario.github.io
+. Github Repositório: [https://github.com/jario/jario.github.io](https://github.com/jario/jario.github.io)
 
 ###### Google/DEV
 [dev.to/jario](https://dev.to/jario)  
