@@ -145,138 +145,84 @@ Você pode usar a propriedade WebViewString para fazer a comunicação entre seu
 
 
 
-<img src="
-          https://www.makerhero.com/wp-content/uploads/2022/12/19.png"/>
+<img src="https://www.makerhero.com/wp-content/uploads/2022/12/19.png"/>
 
 
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/19.png" alt="" width="294" height="88"/>
 
 
 <p>Digite no quadrado rosa o que você deseja que apareça no texto do botão.</p>
-<p><picture class="size-full wp-image-526786 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/20.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20554%2067&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20554%2067&#039;%3E%3C/svg%3E" alt="" width="554" height="67" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/20.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526786 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/20.png.webp"/>
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/20.png" alt="" width="554" height="67"/>
-</picture>
-</noscript></p>
+
+          
 <p>Agora, iremos configurar o segundo Botão utilizando a mesma lógica do primeiro:</p>
-<p><picture class="size-full wp-image-526787 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/21.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20380%20386&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20380%20386&#039;%3E%3C/svg%3E" alt="" width="380" height="386" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/21.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526787 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/21.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/21.png" alt="" width="380" height="386"/>
-</picture>
-</noscript></p>
+
+          
+          
 <p>Voltaremos agora na aba <strong>“Designer”</strong> para adicionar um componente de som em nosso App. Do lado esquerdo, digite a palavra “Sound” no campo de pesquisa da paleta de componentes:</p>
-<p><picture class="size-full wp-image-526788 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/22.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20171%20148&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20171%20148&#039;%3E%3C/svg%3E" alt="" width="171" height="148" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/22.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526788 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/22.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/22.png" alt="" width="171" height="148"/>
-</picture>
-</noscript></p>
+
+          >
 <p>Selecione o terceiro componente que apareceu, arraste-o e solte na tela do celular, ele é um componente invisível. Agora, vamos voltar para a tela <strong>“Blocks”</strong>. Do mesmo modo que pegamos um bloco para configurar os botões, pegaremos no componente Sound.</p>
-<p><picture class="size-full wp-image-526789 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/23.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20489%20505&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20489%20505&#039;%3E%3C/svg%3E" alt="" width="489" height="505" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/23.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526789 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/23.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/23.png" alt="" width="489" height="505"/>
-</picture>
-</noscript></p>
+
+          
 <p>Arraste o bloco <strong>“Call Sound1 Vibrate Millisecs”</strong> e conecte-o com o bloco do botão de Vibrar que havíamos colocado no meio da tela.</p>
-<p><picture class="size-full wp-image-526790 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/24.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20190%2093&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20190%2093&#039;%3E%3C/svg%3E" alt="" width="190" height="93" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/24.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526790 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/24.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/24.png" alt="" width="190" height="93"/>
-</picture>
-</noscript></p>
+
+          
 <p>Por fim, adicionaremos a quantidade de tempo que o celular ficará vibrando. Vá na categoria <strong>“Math”</strong> no canto esquerdo e selecione o quadrado azul que possui apenas um <strong>“0”</strong> escrito. Arraste e conecte no bloco acima.</p>
-<p><picture class="size-full wp-image-526791 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/25.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20223%20107&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20223%20107&#039;%3E%3C/svg%3E" alt="" width="223" height="107" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/25.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526791 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/25.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/25.png" alt="" width="223" height="107"/>
-</picture>
-</noscript></p>
+
+          
 <p>Como o componente Sound funciona em milissegundos, 1 segundo é equivalente a 1000 milissegundos. Sendo assim, vamos configurá-lo para vibrar por 3 segundos.</p>
-<p><picture class="size-full wp-image-526792 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/26.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20238%20104&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20238%20104&#039;%3E%3C/svg%3E" alt="" width="238" height="104" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/26.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526792 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/26.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/26.png" alt="" width="238" height="104"/>
-</picture>
-</noscript></p>
+
+          
 <p>Agora, faremos o terceiro botão. Deste modo, repetiremos o primeiro passo dos outros dois botões.</p>
-<p><picture class="size-full wp-image-526793 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/27.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20444%20377&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20444%20377&#039;%3E%3C/svg%3E" alt="" width="444" height="377" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/27.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526793 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/27.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/27.png" alt="" width="444" height="377"/>
-</picture>
-</noscript></p>
+
 <p>Vá até a categoria <strong>“Control”</strong> e encontre o bloco <strong>“Open another screen&#8230; ScreenName:”</strong>, conecte-o com o bloco do botão<strong> “Abrir outra tela”</strong>.</p>
-<p><picture class="size-full wp-image-526794 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/28.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20299%2061&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20299%2061&#039;%3E%3C/svg%3E" alt="" width="299" height="61" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/28.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526794 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/28.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/28.png" alt="" width="299" height="61"/>
-</picture>
-</noscript></p>
+
 <p>Para abrir outra tela, precisamos criar uma tela segundária. Para isto, clique em <strong>“Add screen”</strong> no canto superior da tela. Adicione o nome da segunda tela e clique em<strong> “ok”</strong>.</p>
-<p><picture class="aligncenter wp-image-526795">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/29.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20306&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20306&#039;%3E%3C/svg%3E" alt="" width="600" height="306" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/29.png"/>
-</picture>
-<noscript><picture class="aligncenter wp-image-526795">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/29.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/29.png" alt="" width="600" height="306"/>
-</picture>
-</noscript></p>
+
+          
 <p>Para voltar na tela principal, vá no canto superior da tela e clique no nome da segunda Tela e selecione <strong>“Screen1”</strong>.</p>
-<p><picture class="size-full wp-image-526796 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/30.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20490%20113&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20490%20113&#039;%3E%3C/svg%3E" alt="" width="490" height="113" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/30.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526796 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/30.png.webp"/>
+
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/30.png" alt="" width="490" height="113"/>
-</picture>
-</noscript></p>
+
 <p>Volte no Blocks da tela 1 e vá até o último bloco que nós criamos. Altere a opção de tela que está escolhida e selecione <strong>“SegundaTela”</strong></p>
-<p><picture class="size-full wp-image-526797 aligncenter">
-<source type="image/webp" data-lazy-srcset="https://www.makerhero.com/wp-content/uploads/2022/12/31.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20374%2095&#039;%3E%3C/svg%3E"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20374%2095&#039;%3E%3C/svg%3E" alt="" width="374" height="95" data-lazy-src="https://www.makerhero.com/wp-content/uploads/2022/12/31.png"/>
-</picture>
-<noscript><picture class="size-full wp-image-526797 aligncenter">
-<source type="image/webp" srcset="https://www.makerhero.com/wp-content/uploads/2022/12/31.png.webp"/>
+
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/31.png" alt="" width="374" height="95"/>
-</picture>
-</noscript></p>
+
+
 <p>Pronto, neste momento, terminamos nosso aplicativo. Para baixa-lo em seu celular vá no canto superior e clique em <strong>“Build” 🡪 “Android App (.apk)”</strong><br />
 
   
 <img src="https://www.makerhero.com/wp-content/uploads/2022/12/32.png" alt="" width="494" height="83"/>
-</picture>
-</noscript></p>
+
 <p>Espere-o compilar e escaneie o QRcode com seu smartphone, Talvez seja necessário que você altere as permissões do seu celular para que ele consiga instalar o programa. Clique nos botões e veja a mágica acontecer. Parabéns, você criou seu primeiro aplicativo! Aproveite e use sua criatividade como desejar.
 <hr />
