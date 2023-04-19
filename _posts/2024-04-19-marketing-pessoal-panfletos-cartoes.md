@@ -1,9 +1,4 @@
----
-layout: post
-title: Dicas para Marketing Pessoal
-date: 2024-04-19
----
-# Marketing Pessoal
+## Marketing Pessoal
   
 Deixar algo físico com o provável cliente é fundamental. Por isso, entrgar-lhe seu cartão de visita, bem como, deixar um catálogo ou um folder com seu produto é fundamental para alçançar seu objetivo.
 
