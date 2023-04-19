@@ -1,4 +1,10 @@
-  
+---
+layout: post
+title: Dica de marketing pessoal
+date: 2023-04-19 19:00:00
+tags: marketing
+---
+
 Deixar algo físico com o provável cliente é fundamental. Por isso, entrgar-lhe seu cartão de visita, bem como, deixar um catálogo ou um folder com seu produto é fundamental para alçançar seu objetivo.
 
 Esse primeiro eu uso sempre que preciso.
