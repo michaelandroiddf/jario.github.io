@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dica de marketing pessoal
-date: 2023-04-19 19:00:00
+date: 2023-04-19 19:00:00 -0300
 tags: marketing
 ---
 
