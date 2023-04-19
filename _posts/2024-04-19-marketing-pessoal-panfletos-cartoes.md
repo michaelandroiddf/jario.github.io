@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dicas para Marketing Pessoal
+date: 2024-04-19
 ---
 # Marketing Pessoal
   
