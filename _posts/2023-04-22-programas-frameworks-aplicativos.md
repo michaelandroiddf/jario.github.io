@@ -17,11 +17,19 @@ Abra o terminal e digite:
     npm install -g @ionic/cli
     npm install -g @angular/cli
 
-## Visual Studio CODE
+## Editores
+
+Editor de texto puro sugestão NOTEPAD++ 
+
+**Atenção: recomendo instalar a ver~so 32-bit x86 - mesmo seu pc sendo 64-bit**
+
+[https://notepad-plus-plus.org/downloads/](https://notepad-plus-plus.org/downloads/)
+
+### Visual Studio CODE
 
 Baixe e instale o code
 
-https://code.visualstudio.com/
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 
 ### GIT Github Desktop e outros
@@ -34,7 +42,7 @@ Muitos outros clientes git https://git-scm.com/download/gui/linux
 
 https://openjdk.org/install/   
 https://jdk.java.net/   
-* Download https://www.oracle.com/java/technologies/downloads/   
+* Download [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)   
 * https://developers.redhat.com/products/openjdk/download   
 
 
