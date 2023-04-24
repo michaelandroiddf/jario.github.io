@@ -1,6 +1,7 @@
 Curso desenvolvimento aplicativos android 2 Praxis Qualifica DF
 
 #### Links 
+* apostila OFICIAL Praxis [click download](/Desenvolvedor_Aplicativo_Android_PRAXIS_2023.pdf)
 * Guia Android Oficial [https://developer.android.com/guide?hl=pt-br](https://developer.android.com/guide?hl=pt-br)
 
 
