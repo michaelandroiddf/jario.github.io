@@ -21,7 +21,7 @@ Abra o terminal e digite:
 
 Editor de texto puro sugestão NOTEPAD++ 
 
-**Atenção: recomendo instalar a ver~so 32-bit x86 - mesmo seu pc sendo 64-bit**
+**Atenção: recomendo instalar a versão 32-bit x86 - mesmo seu pc sendo 64-bit**
 
 [https://notepad-plus-plus.org/downloads/](https://notepad-plus-plus.org/downloads/)
 
