@@ -1,4 +1,6 @@
-## Apostilas Básicas sobre HTML
+# Apostilas Básicas sobre HTML
+
+Sugestão de apostilas, você deve procurar uma na internet que atenda seu gosto.
 
 
 <https://www.clubedainformatica.com.br/download/unesp.pdf>
