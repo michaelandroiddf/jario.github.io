@@ -9,10 +9,12 @@
 ---
 
 # Curso Desenvolvedor de Aplicativos para Android
-## Professor Jario Silva
 
-
-## QUALIFICADF PRAXIS
+Oferecido pelo 
+## QUALIFICADF
 #### Cursos de Qualificação Profissional 
 
 Requisitos: Ensino Médio Completo
+
+
+Realização: PRAXIS Educação
