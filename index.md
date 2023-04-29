@@ -10,7 +10,7 @@ layout: default
     
   
    
-![QUALIFICADF](/assets/img/qualificadf.webp)    
+![QUALIFICADF](/assets/qualificadf.webp)    
 
 
 
