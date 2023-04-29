@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <h2>QUALIFICADF: Cursos de Qualificação Profissional</h2> 
 
 <center> 
