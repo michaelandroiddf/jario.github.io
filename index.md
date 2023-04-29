@@ -5,5 +5,13 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+# layout: home
 ---
+
+## QUALIFICADF 
+#### Cursos de Qualificação Profissional 
+
+# Curso Desenvolvedor de Aplicativos para Android
+## Professor Jario Silva
+
+Requisitos: Ensino Médio Completo
