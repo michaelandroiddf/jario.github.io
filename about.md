@@ -41,7 +41,6 @@ Link do grupo Whatsapp Android click aqui par [ENTRAR ](https://chat.whatsapp.co
 ##### Informações sobre o professor: 
 Professor
 * Blog [jario.com.br](https://jario.com.br)
-* Github Repositório: [https://github.com/jario/jario.github.io](https://github.com/jario/jario.github.io)
 
 ###### Google/DEV
 [dev.to/jario](https://dev.to/jario)  
