@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-### Curso desenvolvedor de Aplicativos para Android Praxis Qualifica DF
+### Curso desenvolvedor de Aplicativos para Android 
 
 ### Links importantes
 
@@ -44,3 +44,9 @@ Professor
 
 ###### Google/DEV
 [dev.to/jario](https://dev.to/jario)  
+
+
+
+<div style="display:block;text-align: center;"> 
+<img class="center" src="/assets/qualificadf.png" width="100px" align="center" title="QualificaDF alt="GDF" /> <img class="center" src="/assets/thumb-social.jpg" width="100px" align="center" title="PRAXIS EDUCAÇÃO" alt="praxis" />  
+</div> 
