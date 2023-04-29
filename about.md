@@ -47,6 +47,6 @@ Professor
 
 
 
-<div style="display:block;text-align: center;"> 
+<div style="display: block;t ext-align: center;"> 
 <img class="center" src="/assets/qualificadf.png" width="100px" align="center" title="QualificaDF alt="GDF" /> <img class="center" src="/assets/thumb-social.jpg" width="100px" align="center" title="PRAXIS EDUCAÇÃO" alt="praxis" />  
 </div> 
