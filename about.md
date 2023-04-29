@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 Curso desenvolvimento aplicativos android 2 Praxis Qualifica DF
 
 #### Links 
