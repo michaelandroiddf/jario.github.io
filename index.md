@@ -1,6 +1,5 @@
 ---
 layout: post
-title: J
 ---
     
 ### QUALIFICADF: Cursos de Qualificação Profissional 
