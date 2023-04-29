@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 <h2>QUALIFICADF: Cursos de Qualificação Profissional</h2> 
 
