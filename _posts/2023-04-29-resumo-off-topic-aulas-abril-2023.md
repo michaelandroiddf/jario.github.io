@@ -23,13 +23,16 @@ Fiz o resumo de algumas dicas *off-topics* dadas durante as aulas do mês de Abr
 2. Leia sobre Java Script.
 3. O que é **ANGULAR**, **REACT**, **IONIC** e **FLUTTER**?
 4. Treine usando o GIT/**GITHUB**.
-5. Aprenda sobre **Markdown** (arquivos *.md*) e YAML (arquivos *.yml*)
+5. Aprenda sobre as linguagens **Markdown** (arquivos *.md*) e **YAML** (arquivos *.yml*)
 
 >> Para construir uma APP Android avançado você precisa dominar o NODE.JS, para construir um APP SIMPLES você precisa conhecer apenas HTML/CSS e ter conhecimentos infimos de Java Script.
+
+Instale os programas sugeridos durante as aulas e treine buscando aprofundar seus conhecimentos sobre eles. Eles são ferramentas indispensáveis para todo desenvolvedor de aplicativos para Android.
+
 	
 > Leia APENAS todo material que o professor indicar, não se perca buscando outras informações em outros lugares, professores e cursos. Este curso dura apenas 2 meses e foi pensado com muito carinho para você alcançar a META e OBJETIVO (Qual é a meta do curso? Qual é o objetivo do curso?)
 
-##### Valore, Ética e Princípios
+##### Valores, Ética e Princípios
 		
 >> Não compartilhe as informações dadas no curso, durante as aulas, com terceiros. Valorize seu esforço, seus colegas, seu professor e todo investimento da Escola. Pessoas que não passaram por este esforço, não terão o mesmo compromisso, valores éticos sobre o uso de ferramentas que chegaram a você por meio de muitos anos de pesquisa, estudo e esforço coletivo.
 
