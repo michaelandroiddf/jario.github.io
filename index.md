@@ -24,8 +24,5 @@ Professor: Jario
 
 
 
- <h4>Realização: PRAXIS Educação </h4>
+Realização: PRAXIS Educação
 
-<div style="display: block; text-align: center;"> 
-<img class="center" src="/assets/qualificadf.png" width="100px" align="center" title="QualificaDF alt="GDF" /> <img class="center" src="/assets/thumb-social.jpg" width="100px" align="center" title="PRAXIS EDUCAÇÃO" alt="praxis" />  
-</div> 
