@@ -3,32 +3,42 @@ layout: page
 title: About
 permalink: /about/
 ---
-Curso desenvolvimento aplicativos android 2 Praxis Qualifica DF
+# Curso desenvolvedor de Aplicativos para Android Praxis Qualifica DF
 
-#### Links 
-* apostila OFICIAL Praxis [click download](/Desenvolvedor_Aplicativo_Android_PRAXIS_2023.pdf)
+## Links importantes
+
+* **Apostila OFICIAL Praxis** [click download](/Desenvolvedor_Aplicativo_Android_PRAXIS_2023.pdf)   
 * Guia Android Oficial [https://developer.android.com/guide?hl=pt-br](https://developer.android.com/guide?hl=pt-br)
 
+## IDE´s Plataformas de desenvolvimento
 
-### IDE´s Plataformas
-1. AMBIENTE DE CRIAÇÃO: [APPInventor MIT](https://appinventor.mit.edu/)
+1. AMBIENTE DE CRIAÇÃO APPInventor: [**APPInventor MIT**](https://appinventor.mit.edu/)
 
-2. Android Studio **DOWNLOAD Versões Antigas**: [https://developer.android.com/studio/archive?hl=pt-br](https://developer.android.com/studio/archive?hl=pt-br)
+2. Android Studio **DOWNLOAD todas as Versões**: [https://developer.android.com/studio/archive?hl=pt-br](https://developer.android.com/studio/archive?hl=pt-br)   
+Baixe a mais ATUAL, instale com acelerador de VM.
 
-SUGESTÃO: **Android Studio 3.6** *24 de fevereiro de 2020*
+3. **Notepad++** editor de texto puro. <https://notepad-plus-plus.org/downloads/>
+
+4. Também é salutar instalar o [Visual Studio Code](https://code.visualstudio.com/download) e [Bluefish](https://bluefish.openoffice.nl/download.html) 
+
+## Antes de começar:
+
+* 1 - Crie uma conta usando SEU GMAIL no [GITHUB](https://github.com)
+* 2 - Crie uma conta usando SEU GMAIL no [FIREBASE](https://firebase.google.com/?hl=pt)
+
 
 ### Dúvidas Sugestões Perguntas em geral
-[CONTATO](https://github.com/jario/jario.github.io/issues)
+Comunique com o professor por aqui. [CONTATO](https://github.com/jario/jario.github.io/issues)
 
 ## Datas Importantes
 * FIM DO CURSO: Segunda-feira  `05/06/2023`
 * FORMATURA Terça-feira `06/06/2023`
 
-## Whatsapp
-Link Whatsapp Android  [ENTRAR ](https://chat.whatsapp.com/JYr1PDcwQ1T9prsEXaAXsW)
+## Grupo Whatsapp da turma
+Link do grupo Whatsapp Android click aqui par [ENTRAR ](https://chat.whatsapp.com/JYr1PDcwQ1T9prsEXaAXsW)
 
 
-##### Informações: 
+##### Informações sobre o professor: 
 Professor
 * Blog [jario.com.br](https://jario.com.br)
 * Github Repositório: [https://github.com/jario/jario.github.io](https://github.com/jario/jario.github.io)
