@@ -8,7 +8,7 @@ layout: default
 </center> 
 
 
-<h2> Curso Desenvolvedor de Aplicativos para Android <h2>
+<h2> Curso Desenvolvedor de Aplicativos para Android </h2>
 Requisitos: Ensino Médio Completo
    
       
