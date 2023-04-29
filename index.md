@@ -9,15 +9,18 @@ layout: post
 ---
     
   
-   
-<img src="/assets/qualificadf.webp" align="center" title="QUALIFICADF" alt="Curso Desenvolvedor de Aplicativos para Android" />    
-
+<center>   
+<img class="center" src="/assets/qualificadf.webp" align="center" title="QUALIFICADF" alt="Curso Desenvolvedor de Aplicativos para Android" />    
+</center> 
 
 
 ## QUALIFICADF
 #### Cursos de Qualificação Profissional 
 
-<img src="/assets/androids.png" width="250px" align="center" title="Android" alt="Aplicativos para Android" />  
+<center> 
+<img class="center" src="/assets/androids.png" width="190px" align="center" title="Android" alt="Aplicativos para Android" />  
+</center> 
+
 
 ### Curso Desenvolvedor de Aplicativos para Android
 Requisitos: Ensino Médio Completo
