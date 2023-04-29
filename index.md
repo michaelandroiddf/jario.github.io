@@ -6,10 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 title: Curso Desenvolvedor de Aplicativos para Android
-layout: page
+layout: default
 ---
 
-# Curso Desenvolvedor de Aplicativos para Android
+## Curso Desenvolvedor de Aplicativos para Android
    
       
 Oferecido pelo    
