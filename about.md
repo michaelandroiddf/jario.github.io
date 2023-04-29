@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-# Curso desenvolvedor de Aplicativos para Android Praxis Qualifica DF
+### Curso desenvolvedor de Aplicativos para Android Praxis Qualifica DF
 
-## Links importantes
+### Links importantes
 
 * **Apostila OFICIAL Praxis** [click download](/Desenvolvedor_Aplicativo_Android_PRAXIS_2023.pdf)   
 * Guia Android Oficial [https://developer.android.com/guide?hl=pt-br](https://developer.android.com/guide?hl=pt-br)
