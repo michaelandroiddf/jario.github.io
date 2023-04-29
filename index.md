@@ -8,12 +8,6 @@
 layout: post
 ---
     
-  
-<center>   
-<img class="center" src="/assets/qualificadf.webp" align="center" title="QUALIFICADF" alt="Curso Desenvolvedor de Aplicativos para Android" />    
-</center> 
-
-
 ## QUALIFICADF
 #### Cursos de Qualificação Profissional 
 
