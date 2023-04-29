@@ -5,16 +5,26 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
- layout: page
+title: Curso Desenvolvedor de Aplicativos para Android
+layout: page
 ---
 
 # Curso Desenvolvedor de Aplicativos para Android
-
-Oferecido pelo 
+   
+      
+Oferecido pelo    
+   
+    
 ## QUALIFICADF
 #### Cursos de Qualificação Profissional 
-
 Requisitos: Ensino Médio Completo
+   
+      
+         
+            
+               
+                  
+
 
 
 Realização: PRAXIS Educação
