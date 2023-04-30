@@ -1,9 +1,10 @@
 title: QUALIFICADF 
-author: Jario Silva
-e-mail: jario@outlook.com
+author:
+  name: Jario Silva
+  email: jario@outlook.com
 
 description: > # this means to ignore newlines until "baseurl:"
- Assuntos referentes ao Curso desenvolvedor de Aplicativos para Android oferecido pelo QUALIFICADF SETRAB-GDF realizado pela PRAXIS Educação.
+  Assuntos referentes ao Curso desenvolvedor de Aplicativos para Android oferecido pelo QUALIFICADF SETRAB-GDF realizado pela PRAXIS Educação.
 
 theme: minima
 
