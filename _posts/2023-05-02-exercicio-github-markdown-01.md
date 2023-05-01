@@ -6,7 +6,7 @@ Vamos realizar o primeiro treino coletivo usando o github
 
 2023-05-04 quarta-feira 
 
-**ATENÇÃO: SEJAM PRAGRAMÁTICOS**
+**ATENÇÃO: SEJAM PRAGMÁTICOS**
 
 
 Tarefa na sala e em casa enquanto durar:

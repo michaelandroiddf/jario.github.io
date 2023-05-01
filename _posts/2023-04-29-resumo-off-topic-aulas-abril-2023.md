@@ -14,7 +14,7 @@ Fiz o resumo de algumas dicas *off-topics* dadas durante as aulas do mês de Abr
 
 1. Use um editor online para guardar seus rascunhos, ideias e obervações. Por exemplo: <https://keep.google.com>, <https://simplenote.com>, Microsoft **OneNote** online etc.
 
-2. Se você usa o Windows 10 ou 11, instale o WLS (Linux para Windows) e familiarize-se com este sistema operacional poderoso. Seu aprendizado será muito mais rápido. Basta entrar na loja microsoft e instalar o Linux, o Ubuntu já vem por padrao instalado. Leia mais: <https://learn.microsoft.com/pt-br/windows/wsl/install>
+2. Se você usa o Windows 10 ou 11, instale o WLS (Linux para Windows) e familiarize-se com este sistema operacional poderoso. Seu aprendizado será muito mais rápido. Basta entrar na loja microsoft e instalar o Linux, o Ubuntu já vem por padrão instalado. Leia mais: <https://learn.microsoft.com/pt-br/windows/wsl/install>
 
 
 ##### Linguagem de Programação
@@ -25,7 +25,7 @@ Fiz o resumo de algumas dicas *off-topics* dadas durante as aulas do mês de Abr
 4. Treine usando o GIT/**GITHUB**.
 5. Aprenda sobre as linguagens **Markdown** (arquivos *.md*) e **YAML** (arquivos *.yml*)
 
->> Para construir uma APP Android avançado você precisa dominar o NODE.JS, para construir um APP SIMPLES você precisa conhecer apenas HTML/CSS e ter conhecimentos infimos de Java Script.
+>> Para construir uma APP Android avançado você precisa dominar o NODE.JS, para construir um APP SIMPLES você precisa conhecer apenas HTML/CSS e ter conhecimentos ínfimos de Java Script.
 
 Instale os programas sugeridos durante as aulas e treine buscando aprofundar seus conhecimentos sobre eles. Eles são ferramentas indispensáveis para todo desenvolvedor de aplicativos para Android.
 
