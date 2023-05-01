@@ -8,3 +8,8 @@ Este é um treinamento oferecido pela Microsoft/Github para o uso do code (Visua
 INTRODUÇÃO GITHUB VISUAL STUDIO CODE
 
 <https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-visual-studio-code/>
+
+
+Depois que estudar visite este site:
+
+<https://vscode.github.com/>
