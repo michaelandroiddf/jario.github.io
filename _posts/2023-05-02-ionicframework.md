@@ -1,5 +1,7 @@
 ---
-title: Ionic Framework
+layout: post
+title: Ionic Framework s
+date: 2023-05-02 00:56:23 -0300
 ---
 
 Segundo o Portal TERRA[^1]   o Brasil é o segundo país onde o mercado de aplicativos móveis mais cresce no mundo. 

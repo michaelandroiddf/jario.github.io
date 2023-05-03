@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Palavras iniciais 2ª parte do Curso Maio/2023
 date: 2023-05-02 08:00:00 -0300
 ---
