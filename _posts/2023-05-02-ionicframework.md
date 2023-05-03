@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ionic Framework s
+title: Ionic Framework
 date: 2023-05-02 00:56:23 -0300
 ---
 
