@@ -1,0 +1,16 @@
+---
+title: PWA Aplicações Web Progressivas
+---
+
+"*Progressive Web Apps - PWA (aplicações web progressivas) são desenvolvidas e aprimoradas com APIs modernas para fornecer recursos aprimorados, 
+confiabilidade e capacidade de instalação, ao mesmo tempo que alcançam qualquer pessoa, em qualquer lugar, 
+em qualquer dispositivo com uma única base de código*" [^1].
+
+
+Acesse este link, e estude todo conteúdo: [PWA Aplicações Web Progressivas](https://web.dev/progressive-web-apps/)  
+
+https://web.dev/progressive-web-apps/ 
+
+
+
+[^1]: https://web.dev/what-are-pwas/
