@@ -6,7 +6,7 @@ title: PWA Aplicações Web Progressivas
 confiabilidade e capacidade de instalação, ao mesmo tempo que alcançam qualquer pessoa, em qualquer lugar, 
 em qualquer dispositivo com uma única base de código*" [^1].
 
-Exemplos de PWA: **Aliexpress, Instagram, Tinder,Pinterest, Facebook Lite, OLX, Forbes**. Quais outros PWA você consegue identificar?
+Exemplos de PWA: **Aliexpress, Trivago, Instagram, Tinder, Pinterest, Facebook Lite, OLX, Forbes**... Quais outros PWA você consegue identificar?
 
 Acesse este link, e estude todo conteúdo: [PWA Aplicações Web Progressivas](https://web.dev/progressive-web-apps/)  
 
