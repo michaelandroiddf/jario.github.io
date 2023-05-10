@@ -9,6 +9,7 @@ em qualquer dispositivo com uma única base de código*" [^1].
 
 Acesse este link, e estude todo conteúdo: [PWA Aplicações Web Progressivas](https://web.dev/progressive-web-apps/)  
 
+![](https://web-dev.imgix.net/image/tcFciHGuF3MxnTr1y5ue01OGLBn2/LvIq0sbMK73ycjb2yomw.svg)
 https://web.dev/progressive-web-apps/ 
 
 
