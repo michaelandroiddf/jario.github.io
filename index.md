@@ -24,5 +24,5 @@ Professor: Jario
 
 
 
-Realização: PRAXIS Educação
-<a rel="friend" href="https://server.sheet.pt" title="server linux">server</a>
+Realização: PRAXIS Educação   
+Leia mais sobre instalação linux em <a rel="friend" href="https://server.sheet.pt" title="server linux">server</a>
