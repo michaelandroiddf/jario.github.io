@@ -5,6 +5,14 @@ permalink: /about/
 ---
 ### Curso desenvolvedor de Aplicativos para Android 
 
+Baixe o APP do curso para ficar atualizado das tarefas, atividades e informações referente a este curso.
+
+<https://jario.github.io/app-qualificadf_v0.0.1-2023.apk>
+
+ou
+
+[Aplicativo Android]<https://github.com/jario/jario.github.io/blob/master/app-qualificadf_v0.0.1-2023.apk>
+
 ### Links importantes
 
 * **Apostila OFICIAL Praxis** [click download](/Desenvolvedor_Aplicativo_Android_PRAXIS_2023.pdf)   
