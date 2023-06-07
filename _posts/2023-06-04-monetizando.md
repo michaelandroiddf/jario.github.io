@@ -5,7 +5,7 @@ title: Últimas dicas do curso
 
 
 1. Tenha um cartão de crédito internacional.
-2. Tenha uma conta corrente global, que aceite pagamentos internacionais. NÃO RECOMENDO USAR BANCOS PÚBLICOS COMO BB, CAIXA etc. Já os bancos ITAÚ, BRADESCO SATANDER... possuem taxas abusivas de câmbio que reduzirão seu lucro.
+2. Tenha uma conta corrente global, que aceite pagamentos internacionais. NÃO RECOMENDO USAR BANCOS PÚBLICOS COMO BB, CAIXA etc. Já os bancos ITAÚ, BRADESCO SANTANDER... possuem taxas abusivas de câmbio que reduzirão seu lucro.
 3. O banco INTER possui uma conta Conta Digital sem taxa, gratuita e além da conta brasileira tem uma conta GLOBAL em DOLLAR --- RECOMENDO abrir uma conta no Inter usando meu código **178D4136**.
 4. > Dica: Ao abrir sua conta global, anote os dados num arquivo txt, você vai usar muito e poupará tempo com CTRL+C - CTRL+V. 
 5. >> Ao criar a conta não se esqueça de colocar o código: **178D4136**  (*meu presente para você!*)
