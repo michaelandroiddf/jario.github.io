@@ -11,7 +11,7 @@ Baixe o APP do curso para ficar atualizado das tarefas, atividades e informaçõ
 
 ou
 
-[Aplicativo Android]<https://github.com/jario/jario.github.io/blob/master/app-qualificadf_v0.0.1-2023.apk>
+[Aplicativo Android](https://github.com/jario/jario.github.io/blob/master/app-qualificadf_v0.0.1-2023.apk)
 
 ### Links importantes
 
